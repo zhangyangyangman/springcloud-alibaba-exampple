@@ -15,7 +15,7 @@ import java.net.URI;
 
 import static org.springframework.cloud.gateway.support.ServerWebExchangeUtils.GATEWAY_REQUEST_URL_ATTR;
 
-@Component
+//@Component
 public class Zyy1GlobalFilter implements GlobalFilter, Ordered {
 
     private static final Log log = LogFactory.getLog(Zyy1GlobalFilter.class);

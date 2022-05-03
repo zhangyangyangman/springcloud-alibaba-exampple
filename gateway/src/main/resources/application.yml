@@ -26,7 +26,7 @@ spring:
           #            - Age=0,100
           filters: #过滤器 转发过程中对请求进行一定的修改
             - StripPrefix=1
-            - Zyy=1
+#            - Zyy=1
 #            - Zyy1=1
         - id: order #路由ID
           #          uri: http://localhost:8071  #转发到URL

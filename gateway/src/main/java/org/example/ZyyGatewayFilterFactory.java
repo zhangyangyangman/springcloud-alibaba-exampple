@@ -15,7 +15,7 @@ import java.util.List;
 
 import static org.springframework.cloud.gateway.support.GatewayToStringStyler.filterToStringCreator;
 
-@Component
+//@Component
 public class ZyyGatewayFilterFactory
         extends AbstractGatewayFilterFactory<ZyyGatewayFilterFactory.Config> {
 

@@ -12,7 +12,7 @@ import org.springframework.web.server.ServerWebExchange;
 import java.util.List;
 import java.util.function.Predicate;
 
-@Component
+//@Component
 public class AgeRoutePredicateFactory extends AbstractRoutePredicateFactory<AgeRoutePredicateFactory.Config> {
 
 

@@ -1,12 +1,9 @@
 package org.example;
 
-import com.alibaba.csp.sentinel.adapter.gateway.common.rule.GatewayFlowRule;
-import com.alibaba.csp.sentinel.adapter.gateway.common.rule.GatewayRuleManager;
 import com.alibaba.csp.sentinel.adapter.gateway.sc.SentinelGatewayFilter;
 import com.alibaba.csp.sentinel.adapter.gateway.sc.callback.BlockRequestHandler;
 import com.alibaba.csp.sentinel.adapter.gateway.sc.callback.GatewayCallbackManager;
 import com.alibaba.csp.sentinel.adapter.gateway.sc.exception.SentinelGatewayBlockExceptionHandler;
-import com.google.common.collect.Sets;
 import org.springframework.beans.factory.ObjectProvider;
 import org.springframework.cloud.gateway.filter.GlobalFilter;
 import org.springframework.context.annotation.Bean;
@@ -24,7 +21,6 @@ import reactor.core.publisher.Mono;
 
 import javax.annotation.PostConstruct;
 import java.util.List;
-import java.util.Set;
 
 @Configuration
 public class GatewayConfig {
@@ -47,11 +43,11 @@ public class GatewayConfig {
     //初始化限流参数
     @PostConstruct
     public void initGatewayParam() {
-        Set<GatewayFlowRule> flowRules = Sets.newHashSet();
-        flowRules.add(new GatewayFlowRule("shop") //对应路由ID
-                .setCount(1) //限流阈值
-                .setIntervalSec(1));//统计时间窗口 单位秒 默认1秒
-        GatewayRuleManager.loadRules(flowRules);
+//        Set<GatewayFlowRule> flowRules = Sets.newHashSet();
+//        flowRules.add(new GatewayFlowRule("shop") //对应路由ID
+//                .setCount(1) //限流阈值
+//                .setIntervalSec(1));//统计时间窗口 单位秒 默认1秒
+//        GatewayRuleManager.loadRules(flowRules);
     }
 
     //自定义异常处理类
