@@ -1,0 +1,562 @@
+2022-05-02 16:46:01,499 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:46:01,499 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:46:01,499 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:46:16,488 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651481161452
+
+2022-05-02 16:46:31,577 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:46:31,577 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:46:54,905 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:47:04,448 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:47:04,448 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:47:04,448 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:47:21,632 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651481224448
+
+2022-05-02 16:47:36,660 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:47:36,660 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:48:11,012 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:48:11,012 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:48:11,012 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:48:16,195 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:48:26,044 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8091@DEFAULT@DEFAULT_GROUP@@order, region: unknown, msg: client timeout after 15000, last beat: 1651481291012
+
+2022-05-02 16:48:26,217 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:48:26,217 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:48:26,217 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:48:41,075 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:48:41,075 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 16:48:41,768 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651481306217
+
+2022-05-02 16:48:56,813 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:48:56,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:49:33,819 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 16:49:40,314 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:49:40,314 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:49:40,314 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:49:56,217 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8091@DEFAULT@DEFAULT_GROUP@@order, region: unknown, msg: client timeout after 15000, last beat: 1651481380314
+
+2022-05-02 16:50:11,254 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:50:11,254 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 16:50:24,517 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:50:30,865 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:50:30,865 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:50:30,865 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:50:43,322 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:50:43,322 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:50:52,832 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:50:52,832 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:50:52,832 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:51:12,014 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651481452832
+
+2022-05-02 16:51:13,766 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 16:51:19,746 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:51:19,746 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:51:19,746 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:51:27,032 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:51:27,032 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:51:36,408 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8091@DEFAULT@DEFAULT_GROUP@@order, region: unknown, msg: client timeout after 15000, last beat: 1651481479746
+
+2022-05-02 16:51:51,439 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:51:51,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 16:54:42,346 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 16:54:49,005 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:54:49,005 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:54:49,005 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 16:54:49,715 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:54:49,715 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 16:54:51,844 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:54:58,130 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:54:58,130 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:54:58,130 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:55:17,406 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651481698130
+
+2022-05-02 16:55:21,074 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_false,
+
+2022-05-02 16:55:22,376 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_false,
+
+2022-05-02 16:55:27,874 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_false,
+
+2022-05-02 16:55:34,587 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_false,
+
+2022-05-02 16:56:07,492 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:56:07,492 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:58:05,635 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 16:58:11,873 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 16:58:11,873 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:58:11,873 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 16:58:27,735 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651481891873
+
+2022-05-02 16:58:42,750 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 16:58:42,750 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:04:53,078 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:08:37,278 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 17:08:37,278 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 17:08:37,278 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 17:08:52,285 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651482517257
+
+2022-05-02 17:09:07,359 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 17:09:07,359 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:13:21,569 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:13:33,647 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 17:13:33,647 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 17:13:33,647 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 17:13:52,790 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651482813647
+
+2022-05-02 17:14:07,806 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 17:14:07,806 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:14:38,152 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:14:38,350 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 17:14:38,350 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:18080_true,
+
+2022-05-02 17:14:38,350 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:18080_true,
+
+2022-05-02 17:14:57,892 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:18080@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651482878350
+
+2022-05-02 17:15:12,917 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 17:15:12,917 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:20:21,855 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:20:27,582 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 17:20:27,582 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 127.0.0.1:18080_true,
+
+2022-05-02 17:20:27,582 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 127.0.0.1:18080_true,
+
+2022-05-02 17:20:43,460 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:18080@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651483227582
+
+2022-05-02 17:20:58,468 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 17:20:58,468 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:29:52,939 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:30:02,604 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 17:30:02,604 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 127.0.0.1:18080_true,
+
+2022-05-02 17:30:24,406 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:18080@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651483807607
+
+2022-05-02 17:30:39,428 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 17:30:39,428 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:34:55,133 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:39:29,219 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 17:39:29,219 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 127.0.0.1:18080_true,
+
+2022-05-02 17:39:50,360 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:18080@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651484374199
+
+2022-05-02 17:40:05,378 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 17:40:05,378 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 17:41:10,671 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:33:34,591 INFO DEFAULT_GROUP@@client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:33:34,591 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@client, ips: 192.168.0.103:8080_true,
+
+2022-05-02 18:36:07,437 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:36:07,437 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 127.0.0.1:18080_true,
+
+2022-05-02 18:36:30,823 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:18080@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651487772441
+
+2022-05-02 18:36:45,846 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:36:45,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:38:20,171 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:38:31,461 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:38:31,461 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 127.0.0.1:18080_true,
+
+2022-05-02 18:38:56,076 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:18080@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651487916456
+
+2022-05-02 18:39:11,103 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:39:11,103 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:40:37,754 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:40:49,402 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:40:49,402 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 127.0.0.1:18080_true,
+
+2022-05-02 18:41:11,299 INFO {POS} {IP-DISABLED} valid: 127.0.0.1:18080@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651488054405
+
+2022-05-02 18:41:26,329 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [127.0.0.1:18080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:41:26,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:45:21,368 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:47:21,474 INFO DEFAULT_GROUP@@client {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:47:21,474 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@client, ips: 192.168.0.103:8080_true,192.168.0.103:8081_true,
+
+2022-05-02 18:47:46,037 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@client, region: unknown, msg: client timeout after 15000, last beat: 1651488446477
+
+2022-05-02 18:47:54,120 INFO DEFAULT_GROUP@@client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:47:54,120 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@client, ips: 192.168.0.103:8080_true,
+
+2022-05-02 18:48:02,563 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:48:02,563 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 18:48:27,027 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651488487574
+
+2022-05-02 18:48:42,032 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:48:42,032 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:48:49,256 INFO DEFAULT_GROUP@@configserver {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:7070:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:48:49,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@configserver, ips: 192.168.0.103:7070_true,
+
+2022-05-02 18:49:05,244 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:49:16,799 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:49:16,799 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 18:49:37,120 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651488561803
+
+2022-05-02 18:49:52,138 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:49:52,138 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:51:24,822 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:51:36,139 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:51:36,139 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 18:51:46,035 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:51:46,035 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:51:57,294 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:51:57,294 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 18:52:03,586 INFO DEFAULT_GROUP@@configserver {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:7070:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:52:03,586 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@configserver, ips: 
+
+2022-05-02 18:52:03,618 INFO DEFAULT_GROUP@@client {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:52:03,618 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@client, ips: 
+
+2022-05-02 18:52:17,357 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651488722310
+
+2022-05-02 18:52:32,385 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:52:32,385 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:53:01,568 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:53:10,014 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:53:10,014 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 18:53:32,492 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651488795011
+
+2022-05-02 18:53:47,528 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:53:47,529 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:54:17,708 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:54:26,067 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:54:26,067 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 18:54:47,634 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651488871067
+
+2022-05-02 18:55:02,658 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:55:02,658 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:55:41,472 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:55:49,031 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 18:55:49,031 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8081_true,
+
+2022-05-02 18:56:12,788 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651488954023
+
+2022-05-02 18:56:27,827 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 18:56:27,827 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 18:58:48,127 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:07:18,557 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:07:18,557 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 19:08:21,032 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 19:12:35,406 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:12:35,406 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 19:12:39,638 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:12:39,638 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 19:16:35,518 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:16:35,518 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-02 19:17:33,309 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:17:33,309 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 19:17:40,781 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:17:40,781 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 19:17:52,765 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:17:52,765 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:17:56,722 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:17:56,722 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-02 19:18:20,369 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:18:20,369 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:18:29,310 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:18:29,310 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-02 19:18:50,745 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8071@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651490314298
+
+2022-05-02 19:19:05,831 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 19:19:05,831 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:19:47,392 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:19:47,392 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 19:19:56,377 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:19:56,377 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 19:20:19,870 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8091@DEFAULT@DEFAULT_GROUP@@order, region: unknown, msg: client timeout after 15000, last beat: 1651490401357
+
+2022-05-02 19:20:24,669 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:20:29,787 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:20:29,787 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-02 19:20:34,888 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 19:20:34,888 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 19:20:50,995 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8071@DEFAULT@DEFAULT_GROUP@@shop, region: unknown, msg: client timeout after 15000, last beat: 1651490434770
+
+2022-05-02 19:21:06,034 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 19:21:06,034 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:23:47,695 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:23:47,695 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:26:28,237 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:26:28,237 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:26:37,277 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:26:37,277 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:26:58,009 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@user, region: unknown, msg: client timeout after 15000, last beat: 1651490802271
+
+2022-05-02 19:27:13,033 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 19:27:13,033 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:28:21,707 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:28:30,623 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:28:30,623 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:28:53,167 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@user, region: unknown, msg: client timeout after 15000, last beat: 1651490915609
+
+2022-05-02 19:29:08,179 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 19:29:08,179 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:29:13,459 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:29:19,138 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:29:19,138 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:29:43,234 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@user, region: unknown, msg: client timeout after 15000, last beat: 1651490964133
+
+2022-05-02 19:29:58,256 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 19:29:58,256 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:31:00,607 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:31:19,906 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:31:19,906 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:32:21,870 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:32:21,870 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:32:30,159 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:32:30,159 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:32:53,508 INFO {POS} {IP-DISABLED} valid: 192.168.0.103:8081@DEFAULT@DEFAULT_GROUP@@user, region: unknown, msg: client timeout after 15000, last beat: 1651491155139
+
+2022-05-02 19:33:08,536 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2022-05-02 19:33:08,536 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:33:13,851 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:33:22,486 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:33:22,486 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:34:31,106 INFO DEFAULT_GROUP@@user {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:34:31,106 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 
+
+2022-05-02 19:34:39,134 INFO DEFAULT_GROUP@@user {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8081:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:34:39,134 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user, ips: 192.168.0.103:8081_true,
+
+2022-05-02 19:35:17,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 19:35:26,822 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:35:26,822 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 19:35:54,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:36:03,191 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:36:03,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-02 19:36:35,938 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:36:35,938 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:36:41,376 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:36:41,376 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-02 19:37:08,567 INFO DEFAULT_GROUP@@order {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:37:08,567 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 
+
+2022-05-02 19:37:13,632 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:37:13,632 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,
+
+2022-05-02 19:37:17,702 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:37:17,702 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-02 19:37:23,380 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-02 19:37:23,380 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+

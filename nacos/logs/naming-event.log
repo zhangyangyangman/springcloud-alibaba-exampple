@@ -1,0 +1,40 @@
+2022-05-04 00:13:46,450 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:13:46,450 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.103:9090_true,
+
+2022-05-04 00:13:53,774 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8082:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:13:53,774 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8082_true,
+
+2022-05-04 00:13:57,497 INFO DEFAULT_GROUP@@order {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8091:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:13:57,497 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@order, ips: 192.168.0.103:8091_true,192.168.0.103:8082_true,
+
+2022-05-04 00:14:01,286 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:14:01,286 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-04 00:15:28,559 INFO DEFAULT_GROUP@@shop {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:15:28,559 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 
+
+2022-05-04 00:15:35,383 INFO DEFAULT_GROUP@@shop {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:8071:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:15:35,383 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@shop, ips: 192.168.0.103:8071_true,
+
+2022-05-04 00:15:37,550 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:15:37,551 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-05-04 00:16:01,597 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:16:01,597 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.103:9090_true,
+
+2022-05-04 00:17:28,558 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.0.103:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:17:28,558 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 
+
+2022-05-04 00:17:42,944 INFO DEFAULT_GROUP@@gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.0.103:9090:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2022-05-04 00:17:42,944 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gateway, ips: 192.168.0.103:9090_true,
+

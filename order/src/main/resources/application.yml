@@ -1,0 +1,44 @@
+server:
+  port: 8091
+#  servlet:
+#    context-path: /
+
+spring:
+  application:
+    name: order
+  datasource:
+    driver-class-name: org.mariadb.jdbc.Driver
+    url: jdbc:mariadb://localhost:3306/test?characterEncoding=utf-8&useSSL=false&useTimezone=true&serverTimezone=GMT%2B8
+    username: root
+    password: root
+
+  jpa:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+        dialect: org.hibernate.dialect.MariaDB103Dialect
+  cloud:
+    nacos:
+      #      config:
+      #        namespace: public
+      #        server-addr: 192.168.0.103:8848
+      #        endpoint: 192.168.0.103:8848
+      #        access-key: nacos
+      #        secret-key: nacos
+      discovery:
+        #        namespace: public
+        server-addr: 127.0.0.1:8848
+        #        secret-key: nacos
+        #        access-key: nacos
+        #        heart-beat-interval: 10 #心跳间隔。单位为毫秒。
+        #        heart-beat-timeout: 3000 #心跳暂停。单位为毫秒。
+        #        ip-delete-timeout: 6000 #Ip删除超时。单位为毫秒。
+        #        port: 8848
+#        endpoint: 127.0.0.1:8848
+#        access-key: nacos
+#        secret-key: nacos
+order:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+

@@ -1,0 +1,30 @@
+package org.example.config;
+
+import com.alibaba.csp.sentinel.adapter.servlet.callback.UrlBlockHandler;
+import com.alibaba.csp.sentinel.slots.block.BlockException;
+import com.alibaba.csp.sentinel.slots.block.authority.AuthorityException;
+import com.alibaba.csp.sentinel.slots.block.degrade.DegradeException;
+import com.alibaba.csp.sentinel.slots.block.flow.FlowException;
+import com.alibaba.csp.sentinel.slots.block.flow.param.ParamFlowException;
+import com.alibaba.csp.sentinel.slots.system.SystemBlockException;
+import org.springframework.context.annotation.Configuration;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+
+//@Configuration
+public class ExeptionHandler implements UrlBlockHandler {
+    @Override
+    public void blocked(HttpServletRequest request, HttpServletResponse response, BlockException ex) throws IOException {
+
+        if (ex instanceof FlowException) {
+
+        } else if (ex instanceof AuthorityException) {
+        } else if (ex instanceof DegradeException) {
+        } else if (ex instanceof SystemBlockException) {
+        } else if (ex instanceof ParamFlowException) {
+
+        }
+    }
+}

@@ -1,0 +1,100 @@
+server:
+  port: 9090
+#  tomcat:
+#    max-threads: 10
+#  servlet:
+#    context-path: /
+
+spring:
+  application:
+    name: gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      discovery:
+        locator:
+          enabled: true
+      routes: #路由数组
+        - id: shop #路由ID
+          #          uri: http://localhost:8071  #转发到URL
+          uri: lb://shop  #转发到URL
+          order: 1 #优先级
+          predicates: #断言 转发需要满足的条件
+            - Path=/shop1/**  #转发规则
+          #            - Age=0,100
+          filters: #过滤器 转发过程中对请求进行一定的修改
+            - StripPrefix=1
+            - Zyy=1
+#            - Zyy1=1
+        - id: order #路由ID
+          #          uri: http://localhost:8071  #转发到URL
+          uri: lb://order  #转发到URL
+          order: 1 #优先级
+          predicates: #断言 转发需要满足的条件
+            - Path=/order1/**  #转发规则
+          #            - Age=20,30
+          filters: #过滤器 转发过程中对请求进行一定的修改
+            - StripPrefix=1
+#            - name:
+#    nacos:
+#      #      config:
+#      #        namespace: public
+#      #        server-addr: 192.168.0.103:8848
+#      #        endpoint: 192.168.0.103:8848
+#      #        access-key: nacos
+#      #        secret-key: nacos
+#      discovery:
+#        #        namespace: public
+#        server-addr: 127.0.0.1:8848
+#        #        secret-key: nacos
+#        #        access-key: nacos
+#        #        heart-beat-interval: 10 #心跳间隔。单位为毫秒。
+#        #        heart-beat-timeout: 3000 #心跳暂停。单位为毫秒。
+#        #        ip-delete-timeout: 6000 #Ip删除超时。单位为毫秒。
+#        #        port: 8848
+#    #        endpoint: 127.0.0.1:8848
+#    #        access-key: nacos
+#    #        secret-key: nacos
+#
+#    sentinel:
+#      #      web-context-unify: false
+#      filter:
+#        url-patterns: /*
+#      #        enabled: false
+#      transport:
+#        port: 9999
+#        dashboard: localhost:8080
+#      #      //取消懒加载
+#      eager: true
+#      #        client-ip: localhost:8071
+#      datasource:
+#        #        dsl:
+#        #          nacos:
+#        #            server-addr: localhost:8848
+#        #            dataId: ${spring.application.name}
+#        #            groupId: DEFAULT_GROUP
+#        #            rule-type: flow
+#        ds2:
+#          file:
+#            file: classpath:flowrule.json
+#            data-type: json
+#            rule-type: flow
+#
+#
+##management:
+##  endpoint:
+##    sentinel:
+##      enabled: true
+##  endpoints:
+##    web:
+##      exposure:
+##        include: '*'
+#
+#feign:
+#  sentinel:
+#    enabled: true # 激活Sentinel对Feign的支持
+#order:
+#  ribbon:
+#    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule

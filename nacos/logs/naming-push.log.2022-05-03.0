@@ -1,0 +1,1514 @@
+2022-05-03 00:01:28,173 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:01:28,173 INFO DEFAULT_GROUP@@user is changed, add it to push queue.
+
+2022-05-03 00:01:28,173 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:01:31,006 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:01:31,289 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:01:32,217 INFO DEFAULT_GROUP@@user is changed, add it to push queue.
+
+2022-05-03 00:10:14,897 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:10:14,897 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:54916, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54916,18386508057200
+
+2022-05-03 00:10:14,897 INFO send udp packet: 192.168.0.103,54916,18386508057200
+
+2022-05-03 00:10:14,897 INFO received ack: {"type": "push-ack", "lastRefTime":"18386508057200", "data":""} from: 192.168.0.103:, cost: 54916 ms, unacked: 0, total push: 0
+
+2022-05-03 00:12:40,264 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:12:40,264 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:54916, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54916,18531874341900
+
+2022-05-03 00:12:40,264 INFO send udp packet: 192.168.0.103,54916,18531874341900
+
+2022-05-03 00:12:40,266 INFO received ack: {"type": "push-ack", "lastRefTime":"18531874341900", "data":""} from: 192.168.0.103:, cost: 54916 ms, unacked: 2, total push: 0
+
+2022-05-03 00:12:49,194 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:12:49,194 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:54916, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54916,18540804593700
+
+2022-05-03 00:12:49,194 INFO send udp packet: 192.168.0.103,54916,18540804593700
+
+2022-05-03 00:12:49,194 INFO received ack: {"type": "push-ack", "lastRefTime":"18540804593700", "data":""} from: 192.168.0.103:, cost: 54916 ms, unacked: 0, total push: 0
+
+2022-05-03 00:12:58,164 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:12:58,164 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:54916, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54916,18549774152000
+
+2022-05-03 00:12:58,164 INFO send udp packet: 192.168.0.103,54916,18549774152000
+
+2022-05-03 00:12:58,164 INFO received ack: {"type": "push-ack", "lastRefTime":"18549774152000", "data":""} from: 192.168.0.103:, cost: 54916 ms, unacked: 0, total push: 0
+
+2022-05-03 00:13:03,914 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:13:03,914 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:54916, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54916,18555524354200
+
+2022-05-03 00:13:03,914 INFO send udp packet: 192.168.0.103,54916,18555524354200
+
+2022-05-03 00:13:03,916 INFO received ack: {"type": "push-ack", "lastRefTime":"18555524354200", "data":""} from: 192.168.0.103:, cost: 54916 ms, unacked: 2, total push: 0
+
+2022-05-03 00:13:46,414 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:13:55,354 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:14:27,163 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:14:32,646 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:14:49,410 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:14:56,739 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:15:45,568 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:15:45,568 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:60813, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,60813,18717178648200
+
+2022-05-03 00:15:45,568 INFO send udp packet: 192.168.0.103,60813,18717178648200
+
+2022-05-03 00:15:45,584 INFO DEFAULT_GROUP@@user is changed, add it to push queue.
+
+2022-05-03 00:15:45,631 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:15:55,578 INFO retry to push data, key: 192.168.0.103,60813,18717178648200
+
+2022-05-03 00:15:55,578 INFO send udp packet: 192.168.0.103,60813,18717178648200
+
+2022-05-03 00:15:56,682 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:16:04,213 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:16:05,592 INFO retry to push data, key: 192.168.0.103,60813,18717178648200
+
+2022-05-03 00:16:05,592 WARN max re-push times reached, retry times 2, key: 192.168.0.103,60813,18717178648200
+
+2022-05-03 00:16:14,470 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:16:21,547 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:16:28,700 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 00:16:36,830 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:16:50,909 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:16:55,968 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:17:07,813 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:17:12,955 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:17:27,707 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:17:33,261 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:19:16,658 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:19:21,811 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:19:48,659 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:19:57,562 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:20:02,134 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:20:07,753 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:21:03,361 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:21:12,744 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:21:14,513 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:21:19,963 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:21:21,127 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:21:26,604 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:03,043 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:12,437 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:28,615 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:34,113 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:40,553 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:45,893 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:47,092 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:25:53,071 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:27:02,471 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:27:08,172 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:28:34,073 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:28:39,466 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:34:16,541 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:34:21,871 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:34:51,826 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:34:57,782 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:35:27,034 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:35:32,457 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:45:28,076 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 00:45:37,455 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:01:00,129 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:01:00,129 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55244, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55244,21431739302600
+
+2022-05-03 01:01:00,129 INFO send udp packet: 192.168.0.103,55244,21431739302600
+
+2022-05-03 01:01:00,129 INFO received ack: {"type": "push-ack", "lastRefTime":"21431739302600", "data":""} from: 192.168.0.103:, cost: 55244 ms, unacked: 0, total push: 0
+
+2022-05-03 01:01:02,306 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:01:02,306 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55244, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55244,21433916825100
+
+2022-05-03 01:01:02,306 INFO send udp packet: 192.168.0.103,55244,21433916825100
+
+2022-05-03 01:01:02,306 INFO received ack: {"type": "push-ack", "lastRefTime":"21433916825100", "data":""} from: 192.168.0.103:, cost: 55244 ms, unacked: 0, total push: 0
+
+2022-05-03 01:01:06,637 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:01:06,638 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55244, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55244,21438248014000
+
+2022-05-03 01:01:06,638 INFO send udp packet: 192.168.0.103,55244,21438248014000
+
+2022-05-03 01:01:06,640 INFO received ack: {"type": "push-ack", "lastRefTime":"21438248014000", "data":""} from: 192.168.0.103:, cost: 55244 ms, unacked: 2, total push: 0
+
+2022-05-03 01:01:09,446 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:01:09,446 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55244, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55244,21441056922300
+
+2022-05-03 01:01:09,446 INFO send udp packet: 192.168.0.103,55244,21441056922300
+
+2022-05-03 01:01:09,446 INFO received ack: {"type": "push-ack", "lastRefTime":"21441056922300", "data":""} from: 192.168.0.103:, cost: 55244 ms, unacked: 0, total push: 0
+
+2022-05-03 01:01:41,347 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:01:41,347 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55244, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55244,21472957541600
+
+2022-05-03 01:01:41,347 INFO send udp packet: 192.168.0.103,55244,21472957541600
+
+2022-05-03 01:01:41,347 INFO received ack: {"type": "push-ack", "lastRefTime":"21472957541600", "data":""} from: 192.168.0.103:, cost: 55244 ms, unacked: 0, total push: 0
+
+2022-05-03 01:01:50,301 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:01:50,301 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55244, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55244,21481910950300
+
+2022-05-03 01:01:50,301 INFO send udp packet: 192.168.0.103,55244,21481910950300
+
+2022-05-03 01:01:50,301 INFO received ack: {"type": "push-ack", "lastRefTime":"21481910950300", "data":""} from: 192.168.0.103:, cost: 55244 ms, unacked: 0, total push: 0
+
+2022-05-03 01:01:56,173 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:01:56,173 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55244, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55244,21487783937600
+
+2022-05-03 01:01:56,173 INFO send udp packet: 192.168.0.103,55244,21487783937600
+
+2022-05-03 01:01:56,173 INFO received ack: {"type": "push-ack", "lastRefTime":"21487783937600", "data":""} from: 192.168.0.103:, cost: 55244 ms, unacked: 0, total push: 0
+
+2022-05-03 01:02:01,368 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:02:08,459 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:08:57,779 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:08:57,779 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:62363, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,62363,21909389813100
+
+2022-05-03 01:08:57,779 INFO send udp packet: 192.168.0.103,62363,21909389813100
+
+2022-05-03 01:08:57,785 INFO received ack: {"type": "push-ack", "lastRefTime":"21909389813100", "data":""} from: 192.168.0.103:, cost: 62363 ms, unacked: 6, total push: 0
+
+2022-05-03 01:09:07,019 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:09:07,019 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:62363, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,62363,21918629228300
+
+2022-05-03 01:09:07,019 INFO send udp packet: 192.168.0.103,62363,21918629228300
+
+2022-05-03 01:09:07,022 INFO received ack: {"type": "push-ack", "lastRefTime":"21918629228300", "data":""} from: 192.168.0.103:, cost: 62363 ms, unacked: 3, total push: 0
+
+2022-05-03 01:09:13,144 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:09:13,144 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:62363, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,62363,21924754834100
+
+2022-05-03 01:09:13,144 INFO send udp packet: 192.168.0.103,62363,21924754834100
+
+2022-05-03 01:09:13,146 INFO received ack: {"type": "push-ack", "lastRefTime":"21924754834100", "data":""} from: 192.168.0.103:, cost: 62363 ms, unacked: 2, total push: 0
+
+2022-05-03 01:11:20,203 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:11:26,342 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:15:20,135 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:15:27,591 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:15:54,164 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:16:01,102 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:51:33,317 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:51:44,204 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:53:07,592 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:53:13,552 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:53:14,742 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:53:22,743 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 01:56:30,397 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:56:30,397 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55230, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55230,24762007358900
+
+2022-05-03 01:56:30,397 INFO send udp packet: 192.168.0.103,55230,24762007358900
+
+2022-05-03 01:56:30,403 INFO received ack: {"type": "push-ack", "lastRefTime":"24762007358900", "data":""} from: 192.168.0.103:, cost: 55230 ms, unacked: 6, total push: 0
+
+2022-05-03 01:56:40,042 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:56:40,042 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55230, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55230,24771652211800
+
+2022-05-03 01:56:40,042 INFO send udp packet: 192.168.0.103,55230,24771652211800
+
+2022-05-03 01:56:40,045 INFO received ack: {"type": "push-ack", "lastRefTime":"24771652211800", "data":""} from: 192.168.0.103:, cost: 55230 ms, unacked: 2, total push: 0
+
+2022-05-03 01:56:47,166 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:56:47,166 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55230, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55230,24778776185300
+
+2022-05-03 01:56:47,166 INFO send udp packet: 192.168.0.103,55230,24778776185300
+
+2022-05-03 01:56:47,168 INFO received ack: {"type": "push-ack", "lastRefTime":"24778776185300", "data":""} from: 192.168.0.103:, cost: 55230 ms, unacked: 2, total push: 0
+
+2022-05-03 01:56:51,800 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 01:56:51,800 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:55230, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55230,24783410513900
+
+2022-05-03 01:56:51,800 INFO send udp packet: 192.168.0.103,55230,24783410513900
+
+2022-05-03 01:56:51,802 INFO received ack: {"type": "push-ack", "lastRefTime":"24783410513900", "data":""} from: 192.168.0.103:, cost: 55230 ms, unacked: 2, total push: 0
+
+2022-05-03 02:00:48,517 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:00:55,261 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:03:41,662 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:03:47,864 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:03:59,367 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:04:05,481 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:04:56,968 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:05:03,725 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:06:35,140 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:06:35,140 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:59387, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,59387,25366750278200
+
+2022-05-03 02:06:35,140 INFO send udp packet: 192.168.0.103,59387,25366750278200
+
+2022-05-03 02:06:35,140 INFO received ack: {"type": "push-ack", "lastRefTime":"25366750278200", "data":""} from: 192.168.0.103:, cost: 59387 ms, unacked: 0, total push: 0
+
+2022-05-03 02:06:44,698 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:06:44,698 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:59387, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,59387,25376308916700
+
+2022-05-03 02:06:44,698 INFO send udp packet: 192.168.0.103,59387,25376308916700
+
+2022-05-03 02:06:44,698 INFO received ack: {"type": "push-ack", "lastRefTime":"25376308916700", "data":""} from: 192.168.0.103:, cost: 59387 ms, unacked: 0, total push: 0
+
+2022-05-03 02:06:50,574 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:06:50,574 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:59387, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,59387,25382184080100
+
+2022-05-03 02:06:50,574 INFO send udp packet: 192.168.0.103,59387,25382184080100
+
+2022-05-03 02:06:50,574 INFO received ack: {"type": "push-ack", "lastRefTime":"25382184080100", "data":""} from: 192.168.0.103:, cost: 59387 ms, unacked: 0, total push: 0
+
+2022-05-03 02:08:32,351 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:08:39,065 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:11:02,412 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:11:30,454 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:12:37,957 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:12:44,893 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:13:43,468 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:13:43,468 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:52436, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,52436,25795078718800
+
+2022-05-03 02:13:43,468 INFO send udp packet: 192.168.0.103,52436,25795078718800
+
+2022-05-03 02:13:43,474 INFO received ack: {"type": "push-ack", "lastRefTime":"25795078718800", "data":""} from: 192.168.0.103:, cost: 52436 ms, unacked: 6, total push: 0
+
+2022-05-03 02:13:49,235 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:13:49,235 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:52436, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,52436,25800845523700
+
+2022-05-03 02:13:49,235 INFO send udp packet: 192.168.0.103,52436,25800845523700
+
+2022-05-03 02:13:49,239 INFO received ack: {"type": "push-ack", "lastRefTime":"25800845523700", "data":""} from: 192.168.0.103:, cost: 52436 ms, unacked: 4, total push: 0
+
+2022-05-03 02:13:52,085 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:13:52,085 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:52436, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,52436,25803695471800
+
+2022-05-03 02:13:52,085 INFO send udp packet: 192.168.0.103,52436,25803695471800
+
+2022-05-03 02:13:52,087 INFO received ack: {"type": "push-ack", "lastRefTime":"25803695471800", "data":""} from: 192.168.0.103:, cost: 52436 ms, unacked: 2, total push: 0
+
+2022-05-03 02:13:58,098 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:13:58,098 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:52436, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,52436,25809708750900
+
+2022-05-03 02:13:58,098 INFO send udp packet: 192.168.0.103,52436,25809708750900
+
+2022-05-03 02:13:58,101 INFO received ack: {"type": "push-ack", "lastRefTime":"25809708750900", "data":""} from: 192.168.0.103:, cost: 52436 ms, unacked: 3, total push: 0
+
+2022-05-03 02:25:43,562 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:25:50,802 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:28:53,528 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:29:00,131 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:30:42,493 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:30:52,816 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:31:36,798 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:31:47,557 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:31:54,265 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:32:07,254 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:39:02,620 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:39:02,620 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:65282, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,65282,27314230566700
+
+2022-05-03 02:39:02,620 INFO send udp packet: 192.168.0.103,65282,27314230566700
+
+2022-05-03 02:39:02,626 INFO received ack: {"type": "push-ack", "lastRefTime":"27314230566700", "data":""} from: 192.168.0.103:, cost: 65282 ms, unacked: 6, total push: 0
+
+2022-05-03 02:39:10,665 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:39:10,665 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:65282, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,65282,27322275530900
+
+2022-05-03 02:39:10,665 INFO send udp packet: 192.168.0.103,65282,27322275530900
+
+2022-05-03 02:39:10,667 INFO received ack: {"type": "push-ack", "lastRefTime":"27322275530900", "data":""} from: 192.168.0.103:, cost: 65282 ms, unacked: 2, total push: 0
+
+2022-05-03 02:39:12,572 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:39:12,572 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:65282, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,65282,27324182086000
+
+2022-05-03 02:39:12,572 INFO send udp packet: 192.168.0.103,65282,27324182086000
+
+2022-05-03 02:39:12,574 INFO received ack: {"type": "push-ack", "lastRefTime":"27324182086000", "data":""} from: 192.168.0.103:, cost: 65282 ms, unacked: 2, total push: 0
+
+2022-05-03 02:39:16,930 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:39:16,930 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:65282, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,65282,27328540302600
+
+2022-05-03 02:39:16,930 INFO send udp packet: 192.168.0.103,65282,27328540302600
+
+2022-05-03 02:39:16,932 INFO received ack: {"type": "push-ack", "lastRefTime":"27328540302600", "data":""} from: 192.168.0.103:, cost: 65282 ms, unacked: 2, total push: 0
+
+2022-05-03 02:42:42,154 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:42:42,154 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:65282, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,65282,27533764300400
+
+2022-05-03 02:42:42,154 INFO send udp packet: 192.168.0.103,65282,27533764300400
+
+2022-05-03 02:42:42,156 INFO received ack: {"type": "push-ack", "lastRefTime":"27533764300400", "data":""} from: 192.168.0.103:, cost: 65282 ms, unacked: 2, total push: 0
+
+2022-05-03 02:42:48,617 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 02:42:48,617 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:65282, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,65282,27540227410400
+
+2022-05-03 02:42:48,617 INFO send udp packet: 192.168.0.103,65282,27540227410400
+
+2022-05-03 02:42:48,619 INFO received ack: {"type": "push-ack", "lastRefTime":"27540227410400", "data":""} from: 192.168.0.103:, cost: 65282 ms, unacked: 2, total push: 0
+
+2022-05-03 02:43:31,851 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:43:38,574 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:45:19,869 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:45:30,152 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:47:27,990 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:47:34,381 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:52:41,849 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:52:48,172 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:53:56,606 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:54:03,185 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:56:29,573 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:56:40,568 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 02:58:38,857 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:00:26,705 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:03:40,088 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:03:50,485 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:04:56,938 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:05:03,336 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:06:01,055 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:06:08,012 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:07:14,232 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:07:20,766 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:08:19,976 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:08:27,011 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:08:59,852 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:09:06,556 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:14:11,559 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 03:14:17,935 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 03:14:25,039 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:15:32,008 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:15:38,488 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:17:39,125 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:17:46,045 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:21:23,713 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:21:31,263 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:26:00,117 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:26:06,983 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:28:49,869 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:28:56,828 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:30:15,703 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:30:26,175 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:34:23,860 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:34:33,873 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:37:56,730 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 03:37:56,730 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:37:58,646 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:37:59,073 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 03:38:42,139 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 03:38:52,721 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 09:14:58,453 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 09:14:58,455 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:56045, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,56045,21816938251000
+
+2022-05-03 09:14:58,455 INFO send udp packet: 192.168.0.103,56045,21816938251000
+
+2022-05-03 09:14:58,456 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@order","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"192.168.0.103#8082#DEFAULT#DEFAULT_GROUP@@order","port":8082,"healthy":true,"ip":"192.168.0.103","clusterName":"DEFAULT","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@order","enabled":true}],"name":"DEFAULT_GROUP@@order","checksum":"ceabf5b44f2dc91921fe7f8e963e3f81","lastRefTime":1651540498453,"env":"","clusters":""}, lastRefTime=21816938251000} to client: 192.168.0.103, error: {}
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2022-05-03 09:14:58,456 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 09:15:00,901 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 09:15:00,901 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:56045, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,56045,21819385835500
+
+2022-05-03 09:15:00,901 INFO send udp packet: 192.168.0.103,56045,21819385835500
+
+2022-05-03 09:15:00,901 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"metadata":{},"dom":"DEFAULT_GROUP@@order","cacheMillis":10000,"useSpecifiedURL":false,"hosts":[{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"192.168.0.103#8091#DEFAULT#DEFAULT_GROUP@@order","port":8091,"healthy":true,"ip":"192.168.0.103","clusterName":"DEFAULT","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@order","enabled":true},{"valid":true,"marked":false,"metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceId":"192.168.0.103#8082#DEFAULT#DEFAULT_GROUP@@order","port":8082,"healthy":true,"ip":"192.168.0.103","clusterName":"DEFAULT","weight":1.0,"ephemeral":true,"serviceName":"DEFAULT_GROUP@@order","enabled":true}],"name":"DEFAULT_GROUP@@order","checksum":"9b6d9b24bbc55a69315a06179852f0ce","lastRefTime":1651540500901,"env":"","clusters":""}, lastRefTime=21819385835500} to client: 192.168.0.103, error: {}
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:579)
+	at com.alibaba.nacos.naming.push.PushService.access$500(PushService.java:51)
+	at com.alibaba.nacos.naming.push.PushService$4.run(PushService.java:184)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:750)
+2022-05-03 10:23:08,951 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:23:17,372 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:25:01,232 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:29:15,532 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:30:02,673 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:30:11,419 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:32:10,891 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:32:19,748 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:37:55,728 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:38:07,197 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:38:31,479 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:40:27,951 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:42:05,351 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:42:13,723 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:42:23,211 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:42:31,636 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:49:59,266 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:50:11,444 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:50:46,980 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:50:58,641 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:52:13,318 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 10:52:13,333 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:52:39,810 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:56:04,379 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:56:15,250 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:57:13,247 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:57:20,687 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:57:23,349 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:57:30,944 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:57:47,892 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 10:57:55,631 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:01:35,689 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:01:59,788 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:01:59,789 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:63183, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,63183,28238272616200
+
+2022-05-03 11:01:59,789 INFO send udp packet: 192.168.0.103,63183,28238272616200
+
+2022-05-03 11:01:59,799 INFO received ack: {"type": "push-ack", "lastRefTime":"28238272616200", "data":""} from: 192.168.0.103:, cost: 63183 ms, unacked: 10, total push: 0
+
+2022-05-03 11:03:01,246 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:03:01,246 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:63183, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,63183,28299730743300
+
+2022-05-03 11:03:01,246 INFO send udp packet: 192.168.0.103,63183,28299730743300
+
+2022-05-03 11:03:01,248 INFO received ack: {"type": "push-ack", "lastRefTime":"28299730743300", "data":""} from: 192.168.0.103:, cost: 63183 ms, unacked: 2, total push: 0
+
+2022-05-03 11:03:18,269 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:03:18,269 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:62567, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,62567,28316753991000
+
+2022-05-03 11:03:18,269 INFO send udp packet: 192.168.0.103,62567,28316753991000
+
+2022-05-03 11:03:18,272 INFO received ack: {"type": "push-ack", "lastRefTime":"28316753991000", "data":""} from: 192.168.0.103:, cost: 62567 ms, unacked: 3, total push: 0
+
+2022-05-03 11:05:56,196 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:05:56,196 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:62567, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,62567,28474680864600
+
+2022-05-03 11:05:56,196 INFO send udp packet: 192.168.0.103,62567,28474680864600
+
+2022-05-03 11:05:56,198 INFO received ack: {"type": "push-ack", "lastRefTime":"28474680864600", "data":""} from: 192.168.0.103:, cost: 62567 ms, unacked: 2, total push: 0
+
+2022-05-03 11:06:13,350 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:06:13,350 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:61993, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,61993,28491835184600
+
+2022-05-03 11:06:13,350 INFO send udp packet: 192.168.0.103,61993,28491835184600
+
+2022-05-03 11:06:13,353 INFO received ack: {"type": "push-ack", "lastRefTime":"28491835184600", "data":""} from: 192.168.0.103:, cost: 61993 ms, unacked: 3, total push: 0
+
+2022-05-03 11:06:41,340 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:06:41,340 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:61993, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,61993,28519824447600
+
+2022-05-03 11:06:41,340 INFO send udp packet: 192.168.0.103,61993,28519824447600
+
+2022-05-03 11:06:41,342 INFO received ack: {"type": "push-ack", "lastRefTime":"28519824447600", "data":""} from: 192.168.0.103:, cost: 61993 ms, unacked: 2, total push: 0
+
+2022-05-03 11:06:57,478 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:06:57,478 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:60246, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,60246,28535963179600
+
+2022-05-03 11:06:57,478 INFO send udp packet: 192.168.0.103,60246,28535963179600
+
+2022-05-03 11:06:57,483 INFO received ack: {"type": "push-ack", "lastRefTime":"28535963179600", "data":""} from: 192.168.0.103:, cost: 60246 ms, unacked: 5, total push: 0
+
+2022-05-03 11:08:26,865 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:08:26,865 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:60246, agent: Nacos-Java-Client:v1.4.1, key: 192.168.0.103,60246,28625350100100
+
+2022-05-03 11:08:26,865 INFO send udp packet: 192.168.0.103,60246,28625350100100
+
+2022-05-03 11:08:26,868 INFO received ack: {"type": "push-ack", "lastRefTime":"28625350100100", "data":""} from: 192.168.0.103:, cost: 60246 ms, unacked: 3, total push: 0
+
+2022-05-03 11:08:43,470 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:15:52,490 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:16:00,840 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:16:38,521 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:16:49,323 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:17:19,748 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:17:27,848 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:18:41,937 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 11:18:49,778 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:40:30,758 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:41:23,279 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:43:22,765 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:43:32,448 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:45:32,285 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:45:42,342 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:46:21,945 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:46:28,537 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:47:52,573 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:47:59,768 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:48:56,248 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:49:03,016 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:50:52,468 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:50:58,888 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:51:53,471 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:52:01,846 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:53:00,882 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:53:06,742 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:53:37,399 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:53:43,713 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:54:26,783 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:54:56,155 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:55:20,769 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:55:27,123 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:56:25,772 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:56:31,686 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:57:32,534 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:57:42,217 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:58:15,347 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:58:24,958 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:58:52,767 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 12:59:02,200 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:00:03,494 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:00:09,477 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:01:05,416 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:01:14,957 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:03:58,383 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:04:07,962 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:04:40,238 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:04:49,887 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:05:12,858 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:05:19,203 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:05:23,543 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:05:33,060 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:07:58,000 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:08:04,916 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:09:36,727 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:09:43,417 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:11:13,018 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:11:19,432 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:12:38,554 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:12:49,037 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:13:52,346 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:13:59,062 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:15:44,826 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:15:50,612 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:16:09,442 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:16:15,240 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:18:02,275 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:18:08,319 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:22:38,704 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:22:48,374 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:28:34,822 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:28:41,389 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:30:07,910 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:30:14,432 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:30:31,481 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:30:41,371 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:34:04,214 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:34:10,756 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:37:07,121 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:37:17,113 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:39:32,595 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:39:38,975 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:45:01,994 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:45:07,918 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:48:08,488 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:48:15,051 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:50:21,961 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:50:31,777 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:59:23,031 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 13:59:29,995 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:05:25,260 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:05:31,896 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:26:47,966 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:26:54,703 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:27:06,745 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:27:17,218 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:33:10,848 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 14:37:02,391 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 20:41:10,951 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 20:41:13,992 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 21:26:32,381 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 21:26:32,383 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:50417, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,50417,36330632512900
+
+2022-05-03 21:26:32,383 INFO send udp packet: 192.168.0.103,50417,36330632512900
+
+2022-05-03 21:26:32,395 INFO received ack: {"type": "push-ack", "lastRefTime":"36330632512900", "data":""} from: 192.168.0.103:, cost: 50417 ms, unacked: 12, total push: 0
+
+2022-05-03 21:26:35,485 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 21:26:35,485 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:50417, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,50417,36333736876400
+
+2022-05-03 21:26:35,485 INFO send udp packet: 192.168.0.103,50417,36333736876400
+
+2022-05-03 21:26:35,487 INFO received ack: {"type": "push-ack", "lastRefTime":"36333736876400", "data":""} from: 192.168.0.103:, cost: 50417 ms, unacked: 2, total push: 0
+
+2022-05-03 21:26:44,602 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 21:26:51,273 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 21:32:59,505 WARN client: 192.168.0.103:64841 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 64841, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 21:33:01,094 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 21:33:01,094 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:64841, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,64841,36719345259100
+
+2022-05-03 21:33:01,094 INFO send udp packet: 192.168.0.103,64841,36719345259100
+
+2022-05-03 21:33:01,097 INFO received ack: {"type": "push-ack", "lastRefTime":"36719345259100", "data":""} from: 192.168.0.103:, cost: 64841 ms, unacked: 3, total push: 0
+
+2022-05-03 21:36:48,926 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 21:36:48,926 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:64841, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,64841,36947177405800
+
+2022-05-03 21:36:48,926 INFO send udp packet: 192.168.0.103,64841,36947177405800
+
+2022-05-03 21:36:48,928 INFO received ack: {"type": "push-ack", "lastRefTime":"36947177405800", "data":""} from: 192.168.0.103:, cost: 64841 ms, unacked: 2, total push: 0
+
+2022-05-03 21:36:54,976 WARN client: 192.168.0.103:54439 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 54439, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 21:36:55,042 WARN client: 192.168.0.103:54439 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 54439, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 21:36:56,643 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 21:36:56,643 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54439, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54439,36954894619800
+
+2022-05-03 21:36:56,643 INFO send udp packet: 192.168.0.103,54439,36954894619800
+
+2022-05-03 21:36:56,646 INFO received ack: {"type": "push-ack", "lastRefTime":"36954894619800", "data":""} from: 192.168.0.103:, cost: 54439 ms, unacked: 3, total push: 0
+
+2022-05-03 21:39:04,355 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 21:39:04,355 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54439, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54439,37082606717200
+
+2022-05-03 21:39:04,355 INFO send udp packet: 192.168.0.103,54439,37082606717200
+
+2022-05-03 21:39:04,357 INFO received ack: {"type": "push-ack", "lastRefTime":"37082606717200", "data":""} from: 192.168.0.103:, cost: 54439 ms, unacked: 2, total push: 0
+
+2022-05-03 21:39:09,755 WARN client: 192.168.0.103:64601 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 64601, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 21:39:09,824 WARN client: 192.168.0.103:64601 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 64601, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 21:39:11,375 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 21:39:11,376 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:64601, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,64601,37089627086700
+
+2022-05-03 21:39:11,376 INFO send udp packet: 192.168.0.103,64601,37089627086700
+
+2022-05-03 21:39:11,379 INFO received ack: {"type": "push-ack", "lastRefTime":"37089627086700", "data":""} from: 192.168.0.103:, cost: 64601 ms, unacked: 3, total push: 0
+
+2022-05-03 22:24:42,674 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:24:42,674 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:64601, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,64601,39820925832100
+
+2022-05-03 22:24:42,674 INFO send udp packet: 192.168.0.103,64601,39820925832100
+
+2022-05-03 22:24:46,199 WARN client: 192.168.0.103:58969 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 58969, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:24:52,679 INFO retry to push data, key: 192.168.0.103,64601,39820925832100
+
+2022-05-03 22:24:52,679 INFO send udp packet: 192.168.0.103,64601,39820925832100
+
+2022-05-03 22:25:02,681 INFO retry to push data, key: 192.168.0.103,64601,39820925832100
+
+2022-05-03 22:25:02,681 WARN max re-push times reached, retry times 2, key: 192.168.0.103,64601,39820925832100
+
+2022-05-03 22:25:08,472 WARN client: 192.168.0.103:51896 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 51896, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:25:55,253 WARN client: 192.168.0.103:64863 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 64863, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:28:43,223 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:28:43,223 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:57482, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,57482,40061474826400
+
+2022-05-03 22:28:43,223 INFO send udp packet: 192.168.0.103,57482,40061474826400
+
+2022-05-03 22:28:43,223 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:64863, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,64863,40061474826400
+
+2022-05-03 22:28:43,224 INFO send udp packet: 192.168.0.103,64863,40061474826400
+
+2022-05-03 22:28:43,226 INFO received ack: {"type": "push-ack", "lastRefTime":"40061474826400", "data":""} from: 192.168.0.103:, cost: 57482 ms, unacked: 3, total push: 1
+
+2022-05-03 22:28:53,235 INFO retry to push data, key: 192.168.0.103,64863,40061474826400
+
+2022-05-03 22:28:53,235 INFO send udp packet: 192.168.0.103,64863,40061474826400
+
+2022-05-03 22:29:03,237 INFO retry to push data, key: 192.168.0.103,64863,40061474826400
+
+2022-05-03 22:29:03,237 WARN max re-push times reached, retry times 2, key: 192.168.0.103,64863,40061474826400
+
+2022-05-03 22:29:43,645 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:29:43,645 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:57482, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,57482,40121896279800
+
+2022-05-03 22:29:43,645 INFO send udp packet: 192.168.0.103,57482,40121896279800
+
+2022-05-03 22:29:43,646 INFO received ack: {"type": "push-ack", "lastRefTime":"40121896279800", "data":""} from: 192.168.0.103:, cost: 57482 ms, unacked: 1, total push: 0
+
+2022-05-03 22:29:49,236 WARN client: 192.168.0.103:61429 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 61429, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:29:50,840 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:29:50,840 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:57482, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,57482,40129092129700
+
+2022-05-03 22:29:50,840 INFO send udp packet: 192.168.0.103,57482,40129092129700
+
+2022-05-03 22:29:50,840 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:61429, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,61429,40129092129700
+
+2022-05-03 22:29:50,840 INFO send udp packet: 192.168.0.103,61429,40129092129700
+
+2022-05-03 22:29:50,843 INFO received ack: {"type": "push-ack", "lastRefTime":"40129092129700", "data":""} from: 192.168.0.103:, cost: 61429 ms, unacked: 3, total push: 1
+
+2022-05-03 22:30:00,854 INFO retry to push data, key: 192.168.0.103,57482,40129092129700
+
+2022-05-03 22:30:00,854 INFO send udp packet: 192.168.0.103,57482,40129092129700
+
+2022-05-03 22:30:10,863 INFO retry to push data, key: 192.168.0.103,57482,40129092129700
+
+2022-05-03 22:30:10,863 WARN max re-push times reached, retry times 2, key: 192.168.0.103,57482,40129092129700
+
+2022-05-03 22:32:08,829 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:32:08,829 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:61429, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,61429,40267080407300
+
+2022-05-03 22:32:08,829 INFO send udp packet: 192.168.0.103,61429,40267080407300
+
+2022-05-03 22:32:12,539 WARN client: 192.168.0.103:51077 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 51077, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:32:14,160 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:32:14,160 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:51077, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,51077,40272411464500
+
+2022-05-03 22:32:14,160 INFO send udp packet: 192.168.0.103,51077,40272411464500
+
+2022-05-03 22:32:14,163 INFO received ack: {"type": "push-ack", "lastRefTime":"40272411464500", "data":""} from: 192.168.0.103:, cost: 51077 ms, unacked: 3, total push: 1
+
+2022-05-03 22:32:18,845 INFO retry to push data, key: 192.168.0.103,61429,40267080407300
+
+2022-05-03 22:32:18,845 INFO send udp packet: 192.168.0.103,61429,40267080407300
+
+2022-05-03 22:32:28,858 INFO retry to push data, key: 192.168.0.103,61429,40267080407300
+
+2022-05-03 22:32:28,858 WARN max re-push times reached, retry times 2, key: 192.168.0.103,61429,40267080407300
+
+2022-05-03 22:33:11,774 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:33:21,056 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:33:21,056 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:51077, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,51077,40339307232500
+
+2022-05-03 22:33:21,056 INFO send udp packet: 192.168.0.103,51077,40339307232500
+
+2022-05-03 22:33:21,057 INFO received ack: {"type": "push-ack", "lastRefTime":"40339307232500", "data":""} from: 192.168.0.103:, cost: 51077 ms, unacked: 1, total push: 0
+
+2022-05-03 22:33:46,821 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:34:01,843 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:34:12,283 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:34:12,283 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:51077, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,51077,40390534243200
+
+2022-05-03 22:34:12,283 INFO send udp packet: 192.168.0.103,51077,40390534243200
+
+2022-05-03 22:34:12,285 INFO received ack: {"type": "push-ack", "lastRefTime":"40390534243200", "data":""} from: 192.168.0.103:, cost: 51077 ms, unacked: 2, total push: 0
+
+2022-05-03 22:35:25,984 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 22:35:25,984 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:51440, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,51440,40464235207100
+
+2022-05-03 22:35:25,984 INFO send udp packet: 192.168.0.103,51440,40464235207100
+
+2022-05-03 22:35:25,984 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:51077, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,51077,40464235207100
+
+2022-05-03 22:35:25,984 INFO send udp packet: 192.168.0.103,51077,40464235207100
+
+2022-05-03 22:35:25,986 INFO received ack: {"type": "push-ack", "lastRefTime":"40464235207100", "data":""} from: 192.168.0.103:, cost: 51077 ms, unacked: 2, total push: 1
+
+2022-05-03 22:35:26,015 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 22:35:26,015 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:51077, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,51077,40464266305200
+
+2022-05-03 22:35:26,015 INFO send udp packet: 192.168.0.103,51077,40464266305200
+
+2022-05-03 22:35:26,017 INFO received ack: {"type": "push-ack", "lastRefTime":"40464266305200", "data":""} from: 192.168.0.103:, cost: 51077 ms, unacked: 2, total push: 1
+
+2022-05-03 22:35:26,030 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:35:26,030 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:51077, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,51077,40464281716100
+
+2022-05-03 22:35:26,030 INFO send udp packet: 192.168.0.103,51077,40464281716100
+
+2022-05-03 22:35:26,031 INFO received ack: {"type": "push-ack", "lastRefTime":"40464281716100", "data":""} from: 192.168.0.103:, cost: 51077 ms, unacked: 1, total push: 1
+
+2022-05-03 22:35:34,408 WARN client: 192.168.0.103:54514 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 54514, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:35:34,427 WARN client: 192.168.0.103:54514 already associated with key serviceName: DEFAULT_GROUP@@gateway, clusters: , ip: 192.168.0.103, port: 54514, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:35:35,995 INFO retry to push data, key: 192.168.0.103,51440,40464235207100
+
+2022-05-03 22:35:35,995 INFO send udp packet: 192.168.0.103,51440,40464235207100
+
+2022-05-03 22:35:36,152 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:35:36,152 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54514, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54514,40474403591100
+
+2022-05-03 22:35:36,152 INFO send udp packet: 192.168.0.103,54514,40474403591100
+
+2022-05-03 22:35:36,156 INFO received ack: {"type": "push-ack", "lastRefTime":"40474403591100", "data":""} from: 192.168.0.103:, cost: 54514 ms, unacked: 4, total push: 1
+
+2022-05-03 22:35:40,352 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 22:35:40,352 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:54514, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54514,40478603937400
+
+2022-05-03 22:35:40,352 INFO send udp packet: 192.168.0.103,54514,40478603937400
+
+2022-05-03 22:35:40,354 INFO received ack: {"type": "push-ack", "lastRefTime":"40478603937400", "data":""} from: 192.168.0.103:, cost: 54514 ms, unacked: 2, total push: 1
+
+2022-05-03 22:35:43,518 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 22:35:43,519 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:54514, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54514,40481770867000
+
+2022-05-03 22:35:43,520 INFO send udp packet: 192.168.0.103,54514,40481770867000
+
+2022-05-03 22:35:43,525 INFO received ack: {"type": "push-ack", "lastRefTime":"40481770867000", "data":""} from: 192.168.0.103:, cost: 54514 ms, unacked: 5, total push: 1
+
+2022-05-03 22:35:46,000 INFO retry to push data, key: 192.168.0.103,51440,40464235207100
+
+2022-05-03 22:35:46,001 WARN max re-push times reached, retry times 2, key: 192.168.0.103,51440,40464235207100
+
+2022-05-03 22:35:48,176 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 22:35:48,176 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:54514, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54514,40486427952800
+
+2022-05-03 22:35:48,176 INFO send udp packet: 192.168.0.103,54514,40486427952800
+
+2022-05-03 22:35:48,178 INFO received ack: {"type": "push-ack", "lastRefTime":"40486427952800", "data":""} from: 192.168.0.103:, cost: 54514 ms, unacked: 2, total push: 0
+
+2022-05-03 22:36:22,041 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:36:31,687 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:38:45,569 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 22:38:45,569 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:54514, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54514,40663820561600
+
+2022-05-03 22:38:45,569 INFO send udp packet: 192.168.0.103,54514,40663820561600
+
+2022-05-03 22:38:45,571 INFO received ack: {"type": "push-ack", "lastRefTime":"40663820561600", "data":""} from: 192.168.0.103:, cost: 54514 ms, unacked: 2, total push: 0
+
+2022-05-03 22:38:51,807 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 22:38:51,807 INFO serviceName: DEFAULT_GROUP@@shop changed, schedule push for: 192.168.0.103:54514, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54514,40670058254300
+
+2022-05-03 22:38:51,807 INFO send udp packet: 192.168.0.103,54514,40670058254300
+
+2022-05-03 22:38:51,809 INFO received ack: {"type": "push-ack", "lastRefTime":"40670058254300", "data":""} from: 192.168.0.103:, cost: 54514 ms, unacked: 2, total push: 0
+
+2022-05-03 22:43:42,265 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:43:42,265 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54514, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54514,40960516285000
+
+2022-05-03 22:43:42,265 INFO send udp packet: 192.168.0.103,54514,40960516285000
+
+2022-05-03 22:43:42,267 INFO received ack: {"type": "push-ack", "lastRefTime":"40960516285000", "data":""} from: 192.168.0.103:, cost: 54514 ms, unacked: 2, total push: 0
+
+2022-05-03 22:43:48,213 WARN client: 192.168.0.103:62956 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 62956, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:43:48,276 WARN client: 192.168.0.103:62956 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 62956, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:43:48,280 WARN client: 192.168.0.103:62956 already associated with key serviceName: DEFAULT_GROUP@@gateway, clusters: , ip: 192.168.0.103, port: 62956, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:43:49,865 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:43:49,865 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:62956, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,62956,40968116857700
+
+2022-05-03 22:43:49,865 INFO send udp packet: 192.168.0.103,62956,40968116857700
+
+2022-05-03 22:43:49,868 INFO received ack: {"type": "push-ack", "lastRefTime":"40968116857700", "data":""} from: 192.168.0.103:, cost: 62956 ms, unacked: 3, total push: 0
+
+2022-05-03 22:45:15,558 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:45:15,558 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:62956, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,62956,41053809296200
+
+2022-05-03 22:45:15,558 INFO send udp packet: 192.168.0.103,62956,41053809296200
+
+2022-05-03 22:45:15,560 INFO received ack: {"type": "push-ack", "lastRefTime":"41053809296200", "data":""} from: 192.168.0.103:, cost: 62956 ms, unacked: 2, total push: 0
+
+2022-05-03 22:45:21,461 WARN client: 192.168.0.103:55083 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 55083, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:45:21,517 WARN client: 192.168.0.103:55083 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 55083, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:45:23,075 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:45:23,075 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:55083, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55083,41061326825400
+
+2022-05-03 22:45:23,075 INFO send udp packet: 192.168.0.103,55083,41061326825400
+
+2022-05-03 22:45:23,078 INFO received ack: {"type": "push-ack", "lastRefTime":"41061326825400", "data":""} from: 192.168.0.103:, cost: 55083 ms, unacked: 3, total push: 0
+
+2022-05-03 22:45:42,935 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:45:50,081 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:45:50,081 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:55083, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55083,41088332612100
+
+2022-05-03 22:45:50,081 INFO send udp packet: 192.168.0.103,55083,41088332612100
+
+2022-05-03 22:45:50,083 INFO received ack: {"type": "push-ack", "lastRefTime":"41088332612100", "data":""} from: 192.168.0.103:, cost: 55083 ms, unacked: 2, total push: 0
+
+2022-05-03 22:47:00,936 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:47:00,936 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:55083, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55083,41159187194100
+
+2022-05-03 22:47:00,936 INFO send udp packet: 192.168.0.103,55083,41159187194100
+
+2022-05-03 22:47:00,938 INFO received ack: {"type": "push-ack", "lastRefTime":"41159187194100", "data":""} from: 192.168.0.103:, cost: 55083 ms, unacked: 2, total push: 0
+
+2022-05-03 22:47:06,844 WARN client: 192.168.0.103:54243 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 54243, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:47:06,906 WARN client: 192.168.0.103:54243 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 54243, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:47:08,492 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:47:08,492 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54243, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54243,41166744072000
+
+2022-05-03 22:47:08,492 INFO send udp packet: 192.168.0.103,54243,41166744072000
+
+2022-05-03 22:47:08,492 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:55083, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,55083,41166744072000
+
+2022-05-03 22:47:08,492 INFO send udp packet: 192.168.0.103,55083,41166744072000
+
+2022-05-03 22:47:08,495 INFO received ack: {"type": "push-ack", "lastRefTime":"41166744072000", "data":""} from: 192.168.0.103:, cost: 54243 ms, unacked: 3, total push: 1
+
+2022-05-03 22:47:18,496 INFO retry to push data, key: 192.168.0.103,55083,41166744072000
+
+2022-05-03 22:47:18,496 INFO send udp packet: 192.168.0.103,55083,41166744072000
+
+2022-05-03 22:47:28,506 INFO retry to push data, key: 192.168.0.103,55083,41166744072000
+
+2022-05-03 22:47:28,506 WARN max re-push times reached, retry times 2, key: 192.168.0.103,55083,41166744072000
+
+2022-05-03 22:48:48,128 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:48:52,299 WARN client: 192.168.0.103:63260 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 63260, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:48:53,960 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:48:53,960 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:63260, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,63260,41272211659600
+
+2022-05-03 22:48:53,960 INFO send udp packet: 192.168.0.103,63260,41272211659600
+
+2022-05-03 22:48:53,963 INFO received ack: {"type": "push-ack", "lastRefTime":"41272211659600", "data":""} from: 192.168.0.103:, cost: 63260 ms, unacked: 3, total push: 0
+
+2022-05-03 22:51:43,762 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:51:50,878 WARN client: 192.168.0.103:53266 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 53266, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 22:51:52,511 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 22:51:52,511 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:53266, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,53266,41450762910100
+
+2022-05-03 22:51:52,511 INFO send udp packet: 192.168.0.103,53266,41450762910100
+
+2022-05-03 22:51:52,514 INFO received ack: {"type": "push-ack", "lastRefTime":"41450762910100", "data":""} from: 192.168.0.103:, cost: 53266 ms, unacked: 3, total push: 0
+
+2022-05-03 23:05:00,020 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:05:00,020 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:53266, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,53266,42238271987800
+
+2022-05-03 23:05:00,020 INFO send udp packet: 192.168.0.103,53266,42238271987800
+
+2022-05-03 23:05:03,334 WARN client: 192.168.0.103:62857 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 62857, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:05:03,395 WARN client: 192.168.0.103:62857 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 62857, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:05:10,029 INFO retry to push data, key: 192.168.0.103,53266,42238271987800
+
+2022-05-03 23:05:10,029 INFO send udp packet: 192.168.0.103,53266,42238271987800
+
+2022-05-03 23:05:20,038 INFO retry to push data, key: 192.168.0.103,53266,42238271987800
+
+2022-05-03 23:05:20,038 WARN max re-push times reached, retry times 2, key: 192.168.0.103,53266,42238271987800
+
+2022-05-03 23:05:49,066 WARN client: 192.168.0.103:60290 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 60290, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:06:26,458 WARN client: 192.168.0.103:59214 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 59214, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:06:26,514 WARN client: 192.168.0.103:59214 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 59214, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:06:28,075 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:06:28,075 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:60290, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,60290,42326326909000
+
+2022-05-03 23:06:28,075 INFO send udp packet: 192.168.0.103,60290,42326326909000
+
+2022-05-03 23:06:28,075 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:59214, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,59214,42326326909000
+
+2022-05-03 23:06:28,075 INFO send udp packet: 192.168.0.103,59214,42326326909000
+
+2022-05-03 23:06:28,079 INFO received ack: {"type": "push-ack", "lastRefTime":"42326326909000", "data":""} from: 192.168.0.103:, cost: 59214 ms, unacked: 4, total push: 1
+
+2022-05-03 23:06:38,077 INFO retry to push data, key: 192.168.0.103,60290,42326326909000
+
+2022-05-03 23:06:38,077 INFO send udp packet: 192.168.0.103,60290,42326326909000
+
+2022-05-03 23:06:48,089 INFO retry to push data, key: 192.168.0.103,60290,42326326909000
+
+2022-05-03 23:06:48,089 WARN max re-push times reached, retry times 2, key: 192.168.0.103,60290,42326326909000
+
+2022-05-03 23:06:55,365 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:06:55,365 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:59214, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,59214,42353616779700
+
+2022-05-03 23:06:55,365 INFO send udp packet: 192.168.0.103,59214,42353616779700
+
+2022-05-03 23:06:58,678 WARN client: 192.168.0.103:54135 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 54135, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:07:00,275 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:07:00,275 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54135, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54135,42358526624600
+
+2022-05-03 23:07:00,275 INFO send udp packet: 192.168.0.103,54135,42358526624600
+
+2022-05-03 23:07:00,278 INFO received ack: {"type": "push-ack", "lastRefTime":"42358526624600", "data":""} from: 192.168.0.103:, cost: 54135 ms, unacked: 3, total push: 1
+
+2022-05-03 23:07:05,367 INFO retry to push data, key: 192.168.0.103,59214,42353616779700
+
+2022-05-03 23:07:05,367 INFO send udp packet: 192.168.0.103,59214,42353616779700
+
+2022-05-03 23:07:15,374 INFO retry to push data, key: 192.168.0.103,59214,42353616779700
+
+2022-05-03 23:07:15,374 WARN max re-push times reached, retry times 2, key: 192.168.0.103,59214,42353616779700
+
+2022-05-03 23:10:40,051 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:10:44,063 WARN client: 192.168.0.103:59537 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 59537, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:10:44,121 WARN client: 192.168.0.103:59537 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 59537, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:12:08,591 WARN client: 192.168.0.103:52385 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 52385, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:12:10,217 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:12:10,217 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:52385, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,52385,42668468302900
+
+2022-05-03 23:12:10,217 INFO send udp packet: 192.168.0.103,52385,42668468302900
+
+2022-05-03 23:12:10,220 INFO received ack: {"type": "push-ack", "lastRefTime":"42668468302900", "data":""} from: 192.168.0.103:, cost: 52385 ms, unacked: 3, total push: 0
+
+2022-05-03 23:15:27,804 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:15:27,804 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:52385, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,52385,42866056093100
+
+2022-05-03 23:15:27,804 INFO send udp packet: 192.168.0.103,52385,42866056093100
+
+2022-05-03 23:15:31,242 WARN client: 192.168.0.103:56004 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 56004, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:15:31,306 WARN client: 192.168.0.103:56004 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 56004, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:15:32,943 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:15:32,943 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:56004, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,56004,42871194556100
+
+2022-05-03 23:15:32,943 INFO send udp packet: 192.168.0.103,56004,42871194556100
+
+2022-05-03 23:15:32,946 INFO received ack: {"type": "push-ack", "lastRefTime":"42871194556100", "data":""} from: 192.168.0.103:, cost: 56004 ms, unacked: 3, total push: 1
+
+2022-05-03 23:15:37,810 INFO retry to push data, key: 192.168.0.103,52385,42866056093100
+
+2022-05-03 23:15:37,810 INFO send udp packet: 192.168.0.103,52385,42866056093100
+
+2022-05-03 23:15:47,822 INFO retry to push data, key: 192.168.0.103,52385,42866056093100
+
+2022-05-03 23:15:47,822 WARN max re-push times reached, retry times 2, key: 192.168.0.103,52385,42866056093100
+
+2022-05-03 23:16:33,870 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:16:33,870 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:56004, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,56004,42932121364000
+
+2022-05-03 23:16:33,870 INFO send udp packet: 192.168.0.103,56004,42932121364000
+
+2022-05-03 23:16:37,624 WARN client: 192.168.0.103:54010 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 54010, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:16:37,686 WARN client: 192.168.0.103:54010 already associated with key serviceName: DEFAULT_GROUP@@shop, clusters: , ip: 192.168.0.103, port: 54010, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:16:39,292 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:16:39,292 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54010, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54010,42937543730900
+
+2022-05-03 23:16:39,292 INFO send udp packet: 192.168.0.103,54010,42937543730900
+
+2022-05-03 23:16:39,295 INFO received ack: {"type": "push-ack", "lastRefTime":"42937543730900", "data":""} from: 192.168.0.103:, cost: 54010 ms, unacked: 3, total push: 1
+
+2022-05-03 23:16:43,873 INFO retry to push data, key: 192.168.0.103,56004,42932121364000
+
+2022-05-03 23:16:43,873 INFO send udp packet: 192.168.0.103,56004,42932121364000
+
+2022-05-03 23:16:53,876 INFO retry to push data, key: 192.168.0.103,56004,42932121364000
+
+2022-05-03 23:16:53,876 WARN max re-push times reached, retry times 2, key: 192.168.0.103,56004,42932121364000
+
+2022-05-03 23:17:22,045 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:17:22,045 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:54010, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,54010,42980296109100
+
+2022-05-03 23:17:22,045 INFO send udp packet: 192.168.0.103,54010,42980296109100
+
+2022-05-03 23:17:29,176 WARN client: 192.168.0.103:64509 already associated with key serviceName: DEFAULT_GROUP@@order, clusters: , ip: 192.168.0.103, port: 64509, agent: Nacos-Java-Client:v1.1.4
+
+2022-05-03 23:17:30,799 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:17:30,799 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:64509, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,64509,42989050478400
+
+2022-05-03 23:17:30,799 INFO send udp packet: 192.168.0.103,64509,42989050478400
+
+2022-05-03 23:17:30,803 INFO received ack: {"type": "push-ack", "lastRefTime":"42989050478400", "data":""} from: 192.168.0.103:, cost: 64509 ms, unacked: 4, total push: 1
+
+2022-05-03 23:17:32,045 INFO retry to push data, key: 192.168.0.103,54010,42980296109100
+
+2022-05-03 23:17:32,045 INFO send udp packet: 192.168.0.103,54010,42980296109100
+
+2022-05-03 23:17:42,053 INFO retry to push data, key: 192.168.0.103,54010,42980296109100
+
+2022-05-03 23:17:42,053 WARN max re-push times reached, retry times 2, key: 192.168.0.103,54010,42980296109100
+
+2022-05-03 23:30:08,344 INFO DEFAULT_GROUP@@gateway is changed, add it to push queue.
+
+2022-05-03 23:30:08,344 INFO serviceName: DEFAULT_GROUP@@gateway changed, schedule push for: 192.168.0.103:64509, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,64509,43746595482100
+
+2022-05-03 23:30:08,344 INFO send udp packet: 192.168.0.103,64509,43746595482100
+
+2022-05-03 23:30:08,346 INFO received ack: {"type": "push-ack", "lastRefTime":"43746595482100", "data":""} from: 192.168.0.103:, cost: 64509 ms, unacked: 2, total push: 0
+
+2022-05-03 23:30:11,892 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 23:30:11,892 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:59945, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,59945,43750143666800
+
+2022-05-03 23:30:11,892 INFO send udp packet: 192.168.0.103,59945,43750143666800
+
+2022-05-03 23:30:11,897 INFO received ack: {"type": "push-ack", "lastRefTime":"43750143666800", "data":""} from: 192.168.0.103:, cost: 59945 ms, unacked: 5, total push: 0
+
+2022-05-03 23:30:14,193 INFO DEFAULT_GROUP@@order is changed, add it to push queue.
+
+2022-05-03 23:30:14,193 INFO serviceName: DEFAULT_GROUP@@order changed, schedule push for: 192.168.0.103:59945, agent: Nacos-Java-Client:v1.1.4, key: 192.168.0.103,59945,43752444149500
+
+2022-05-03 23:30:14,193 INFO send udp packet: 192.168.0.103,59945,43752444149500
+
+2022-05-03 23:30:14,991 INFO DEFAULT_GROUP@@shop is changed, add it to push queue.
+
+2022-05-03 23:30:24,206 INFO retry to push data, key: 192.168.0.103,59945,43752444149500
+
+2022-05-03 23:30:24,206 INFO send udp packet: 192.168.0.103,59945,43752444149500
+
+2022-05-03 23:30:34,209 INFO retry to push data, key: 192.168.0.103,59945,43752444149500
+
+2022-05-03 23:30:34,209 WARN max re-push times reached, retry times 2, key: 192.168.0.103,59945,43752444149500
+

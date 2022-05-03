@@ -1,0 +1,172 @@
+2022-05-02 16:44:58,593 INFO notifyConnectTimeout:200
+
+2022-05-02 16:44:58,593 INFO notifySocketTimeout:8000
+
+2022-05-02 16:44:58,593 INFO isHealthCheck:true
+
+2022-05-02 16:44:58,593 INFO maxHealthCheckFailCount:12
+
+2022-05-02 16:44:58,593 INFO maxContent:10485760
+
+2022-05-02 16:44:59,979 INFO ServerListService address-server port:8848
+
+2022-05-02 16:44:59,979 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-05-02 16:44:59,979 WARN [serverlist] updated to [192.168.0.103]
+
+2022-05-02 16:45:00,035 WARN DumpService start
+
+2022-05-02 16:45:00,037 INFO start clear all config-info.
+
+2022-05-02 16:45:00,040 WARN clear all config-info failed.
+
+2022-05-02 16:45:00,040 WARN clear all config-info-tenant failed.
+
+2022-05-02 16:45:00,091 INFO start clear all config-info-beta.
+
+2022-05-02 16:45:00,091 WARN clear all config-info-beta failed.
+
+2022-05-02 16:45:00,091 WARN clear all config-info-beta-tenant failed.
+
+2022-05-02 16:45:00,099 INFO start clear all config-info-tag.
+
+2022-05-02 16:45:00,100 WARN clear all config-info-tag failed.
+
+2022-05-02 16:45:00,100 WARN clear all config-info-tag-tenant failed.
+
+2022-05-02 17:05:27,470 INFO notifyConnectTimeout:200
+
+2022-05-02 17:05:27,470 INFO notifySocketTimeout:8000
+
+2022-05-02 17:05:27,470 INFO isHealthCheck:true
+
+2022-05-02 17:05:27,470 INFO maxHealthCheckFailCount:12
+
+2022-05-02 17:05:27,470 INFO maxContent:10485760
+
+2022-05-02 17:05:27,925 INFO Schema 'NACOS' already exists.
+
+2022-05-02 17:05:27,960 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:27,987 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,003 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,003 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,019 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,019 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,034 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,034 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,050 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,060 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,066 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,066 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,066 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,082 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2022-05-02 17:05:28,128 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL220502164459500' defined on 'USERS'.
+
+2022-05-02 17:05:28,474 INFO ServerListService address-server port:8848
+
+2022-05-02 17:05:28,474 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-05-02 17:05:28,474 WARN [serverlist] updated to [192.168.0.103]
+
+2022-05-02 17:05:28,521 WARN DumpService start
+
+2022-05-02 17:05:28,521 INFO start clear all config-info.
+
+2022-05-02 17:05:28,536 WARN clear all config-info failed.
+
+2022-05-02 17:05:28,536 WARN clear all config-info-tenant failed.
+
+2022-05-02 17:05:28,584 INFO start clear all config-info-beta.
+
+2022-05-02 17:05:28,584 WARN clear all config-info-beta failed.
+
+2022-05-02 17:05:28,584 WARN clear all config-info-beta-tenant failed.
+
+2022-05-02 17:05:28,584 INFO start clear all config-info-tag.
+
+2022-05-02 17:05:28,584 WARN clear all config-info-tag failed.
+
+2022-05-02 17:05:28,584 WARN clear all config-info-tag-tenant failed.
+
+2022-05-02 19:07:16,123 INFO notifyConnectTimeout:200
+
+2022-05-02 19:07:16,123 INFO notifySocketTimeout:8000
+
+2022-05-02 19:07:16,123 INFO isHealthCheck:true
+
+2022-05-02 19:07:16,123 INFO maxHealthCheckFailCount:12
+
+2022-05-02 19:07:16,123 INFO maxContent:10485760
+
+2022-05-02 19:07:16,516 INFO Schema 'NACOS' already exists.
+
+2022-05-02 19:07:16,547 INFO Table/View 'CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,587 INFO Table/View 'HIS_CONFIG_INFO' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,594 INFO Table/View 'CONFIG_INFO_BETA' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,594 INFO Table/View 'CONFIG_INFO_TAG' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,610 INFO Table/View 'CONFIG_INFO_AGGR' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,610 INFO Table/View 'APP_LIST' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,626 INFO Table/View 'APP_CONFIGDATA_RELATION_SUBS' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,626 INFO Table/View 'APP_CONFIGDATA_RELATION_PUBS' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,641 INFO Table/View 'CONFIG_TAGS_RELATION' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,641 INFO Table/View 'GROUP_CAPACITY' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,657 INFO Table/View 'TENANT_CAPACITY' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,657 INFO Table/View 'TENANT_INFO' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,673 INFO Table/View 'USERS' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,673 INFO Table/View 'ROLES' already exists in Schema 'NACOS'.
+
+2022-05-02 19:07:16,720 INFO The statement was aborted because it would have caused a duplicate key value in a unique or primary key constraint or unique index identified by 'SQL220502164459500' defined on 'USERS'.
+
+2022-05-02 19:07:17,097 INFO ServerListService address-server port:8848
+
+2022-05-02 19:07:17,097 INFO ADDRESS_SERVER_URL:http://jmenv.tbsite.net:8080/nacos/serverlist
+
+2022-05-02 19:07:17,097 WARN [serverlist] updated to [192.168.0.103]
+
+2022-05-02 19:07:17,143 WARN DumpService start
+
+2022-05-02 19:07:17,159 INFO start clear all config-info.
+
+2022-05-02 19:07:17,159 WARN clear all config-info failed.
+
+2022-05-02 19:07:17,159 WARN clear all config-info-tenant failed.
+
+2022-05-02 19:07:17,206 INFO start clear all config-info-beta.
+
+2022-05-02 19:07:17,206 WARN clear all config-info-beta failed.
+
+2022-05-02 19:07:17,206 WARN clear all config-info-beta-tenant failed.
+
+2022-05-02 19:07:17,222 INFO start clear all config-info-tag.
+
+2022-05-02 19:07:17,222 WARN clear all config-info-tag failed.
+
+2022-05-02 19:07:17,222 WARN clear all config-info-tag-tenant failed.
+

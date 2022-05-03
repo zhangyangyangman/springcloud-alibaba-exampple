@@ -1,0 +1,7 @@
+# Project exclude paths
+/common/target/
+/gateway/target/
+/order/target/
+/shop/target/
+/user/target/
+/.idea/
