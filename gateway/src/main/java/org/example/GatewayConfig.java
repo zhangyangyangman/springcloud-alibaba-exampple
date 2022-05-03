@@ -71,7 +71,6 @@ public class GatewayConfig {
                 return ServerResponse.status(HttpStatus.OK).contentType(MediaType.APPLICATION_JSON_UTF8).body(BodyInserters.fromObject("限流了"));
             }
         };
-
         GatewayCallbackManager.setBlockHandler(blockRequestHandler);
     }
 
